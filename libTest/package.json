@@ -1,0 +1,15 @@
+{
+  "name": "egret",
+  "version": "3.0.3",
+  "modules": [
+    {
+      "name": "test",
+      "description": "test",
+      "files": [
+        "test.js",
+        "test.d.ts"
+      ],
+      "root": "src"
+    }
+  ]
+}

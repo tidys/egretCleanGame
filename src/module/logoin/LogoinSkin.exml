@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LogoinSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Rect id="sky" left="0" right="0" top="0" bottom="0" fillColor="0x29BDF6" locked="true"/>
+	<e:Image id="bird1" source="birl2_png" x="317" y="384"/>
+	<e:Image id="bird2" source="birl_png" x="126" y="284"/>
+	<e:Image id="clounLeft" source="output_cloud_png" x="-232" y="213"/>
+	<e:Image id="sea" source="output_sea_png" x="-4" y="492"/>
+	<e:Image id="water2" source="output_sea1_png" x="37" y="503"/>
+	<e:Image id="water1" source="output_sea2_png" x="9" y="559"/>
+	<e:Image id="boat2" source="output_ship1_png" x="124" y="541"/>
+	<e:Image id="boat1" source="output_ship2_png" x="370" y="500"/>
+	<e:Image id="cloudRight" source="could2_png" x="403" y="151"/>
+	<e:Image id="mountain" source="start_dao_png" x="-2" y="73" locked="true"/>
+	<e:Image id="beach" source="output_beach_png" x="0" y="600" locked="true"/>
+	<e:Group height="200" width="640" x="0" y="62" locked="true">
+		<e:Image id="logo" source="l2_png" y="76" horizontalCenter="0"/>
+		<e:Image id="fruit1" source="ap_png" x="36" y="39" rotation="-15"/>
+		<e:Image id="fruit3" source="gp_png" x="159" y="25" scaleX="0.7" scaleY="0.7"/>
+		<e:Image id="fruit2" source="bb_png" x="113" y="0" rotation="15"/>
+		<e:Image id="fruit5" source="lm_png" x="494" y="198" scaleY="0.8" scaleX="0.8" rotation="15"/>
+		<e:Image id="fruit4" source="wm_png" x="422" y="189"/>
+	</e:Group>
+	<e:Group id="treeGroup" height="200" width="200" x="1" y="757"/>
+	<e:Image id="beganBtn" x="328" y="654" source="open_btn_st_png" anchorOffsetX="96" anchorOffsetY="98"/>
+</e:Skin>

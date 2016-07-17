@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="ChatItemSkin" width="480" height="124" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="border_png" left="0" right="0" top="0" bottom="0" scale9Grid="22,5,133,37" locked="true"/>
+	<e:Label id="wordLabel" text="标签" x="15" y="18" textColor="0x1F5110" width="444" height="92"/>
+</e:Skin>

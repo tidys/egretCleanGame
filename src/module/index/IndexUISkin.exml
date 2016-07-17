@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="IndexUISkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image y="0" x="0" id="top" source="selet_topbg_png"/>
+	<e:Image source="selet_heart_png" x="26" y="8"/>
+	<e:Image source="buy_coin1_png" x="390" y="3"/>
+	<e:BitmapLabel id="gold" x="468" y="22" font="num2_fnt" text="0"/>
+	<e:BitmapLabel id="heart" x="90" y="22" text="0" font="num2_fnt"/>
+	<e:Image id="addHeartBtn" source="selet_add_png" x="176" y="10"/>
+	<e:Image id="addGoldBtn" source="selet_add_png" y="10" x="552"/>
+</e:Skin>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="GameUISkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image id="top" source="game_top_png" x="0" y="0"/>
+	<e:Image id="pauseBtn" source="game_btn_pause_png" x="558" y="7"/>
+	<e:Image source="game_star_progress_off_png" y="85" horizontalCenter="0"/>
+	<e:Image source="game_step_png" x="292" y="4"/>
+	<e:ProgressBar id="progress" y="91" skinName="GameProgressSkin" value="50" horizontalCenter="0"/>
+	<e:Image id="star1" source="game_rate1_off_png" x="216" y="71"/>
+	<e:Image id="star3" x="459" y="71" source="game_rate3_off_png"/>
+	<e:Image id="star2" source="game_rate2_off_png" x="338" y="71"/>
+	<e:Image source="foot_bg_png" x="0" y="870"/>
+	<e:Image source="buy_coin1_png" x="407" y="889"/>
+	<e:BitmapLabel id="stepScore" y="32" font="num1_fnt" text="0" horizontalCenter="0"/>
+	<e:BitmapLabel id="lv" y="906" text="3" font="num1_fnt" x="111"/>
+	<e:Image source="game_level_png" x="33" y="902"/>
+	<e:Image source="score_png" x="457" y="3"/>
+	<e:BitmapLabel id="gold" x="484" y="909" font="num2_fnt" text="111111"/>
+	<e:BitmapLabel id="targetScore" y="35" text="0" font="num2_fnt" x="81"/>
+	<e:BitmapLabel id="score" y="35" text="0" font="num2_fnt" x="452"/>
+	<e:Image source="game_target_title_png" x="81" y="3" width="113" height="32"/>
+</e:Skin>

@@ -1,0 +1,15 @@
+{
+  "name": "egret",
+  "version": "3.0.3",
+  "modules": [
+    {
+      "name": "egret_4399_h5api",
+      "description": "egret_4399_h5api",
+      "files": [
+        "egret_4399_h5api.js",
+        "egret_4399_h5api.d.ts"
+      ],
+      "root": "src"
+    }
+  ]
+}

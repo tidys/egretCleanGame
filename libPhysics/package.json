@@ -1,0 +1,15 @@
+{
+	"name": "egret",
+	"version": "2.5.0",
+	"modules": [
+		{
+			"name": "physics",
+			"description": "physics",
+			"files": [
+			  "p2.min.js",
+			  "physics.d.ts"
+			],
+			"root": "src"
+		}
+	]
+}
