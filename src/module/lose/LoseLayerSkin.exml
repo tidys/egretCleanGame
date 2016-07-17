@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LoseLayerSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillAlpha="0.5" left="0" top="0" bottom="0" right="0" locked="true"/>
+	<e:Image source="lose_bg_png" x="56" y="235"/>
+	<e:Image id="btnAgain" source="reborn_timer_png" y="542" scale9Grid="54,56,2,2" width="280" height="114" horizontalCenter="0"/>
+	<e:Image source="btn_close_png" y="250" x="497" id="closeBtn"/>
+	<e:Image source="lose_title_png" y="177" horizontalCenter="-4.5"/>
+	<e:Label text="再接再厉" y="408" bold="true" horizontalCenter="0"/>
+	<e:Label bold="true" y="578" text="再来一次" touchEnabled="false" horizontalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="IndexSceneSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+<e:Rect fillAlpha="0.6" right="0" left="0" top="0" bottom="0" fillColor="0xE52626"/>
+	<e:Scroller width="640" height="960" x="0" y="0" bounces="false">
+		<e:Group id="list">
+			<e:layout>
+				<e:VerticalLayout gap="0"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+</e:Skin>

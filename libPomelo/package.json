@@ -1,0 +1,14 @@
+{
+	"name": "egret",
+	"version": "3.0.3",
+	"modules": [
+		{
+			"name": "Pomelo",
+			"description": "Pomelo",
+			"files": [
+			"PomeloClient.js",
+			"PomeloClient.d.ts"],
+			"root": "src"
+		}
+	]
+}

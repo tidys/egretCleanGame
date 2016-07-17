@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="WinUISkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.5"/>
+	<e:Image id="bg1" source="bg1_png" y="207" horizontalCenter="0"/>
+	<e:Image id="bg2" source="bgBlack3_png" y="423" horizontalCenter="-10"/>
+	<e:Image id="starBg" source="star_empty_png" y="254" horizontalCenter="0" locked="true"/>
+	<e:Image id="star3" source="star_png" x="404" y="245" rotation="15"/>
+	<e:Image id="star2" source="star_png" x="250" y="250"/>
+	<e:Image id="star1" source="star_png" x="98" y="282" rotation="-15"/>
+	<e:Image id="socker" source="win_score_png" y="450" horizontalCenter="0"/>
+	<e:Image id="nice" source="win_title_png" y="143" horizontalCenter="0"/>
+	<e:Image id="btn1Bg" source="reborn_timer_png" x="135" y="618"/>
+	<e:Image source="win_btn_menu_png" x="165" y="646" touchEnabled="false" locked="true"/>
+	<e:Image id="btn2Bg" source="reborn_timer_png" x="268" y="618"/>
+	<e:Image source="win_btn_retry_png" x="301" y="646" touchEnabled="false" locked="true"/>
+	<e:Image id="btn3Bg" source="reborn_timer_png" x="401" y="618"/>
+	<e:Image source="win_btn_next_png" x="430" y="650" touchEnabled="false" locked="true"/>
+	<e:BitmapLabel id="numLabel" y="506" font="num1_fnt" text="100" horizontalCenter="0"/>
+</e:Skin>

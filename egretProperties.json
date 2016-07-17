@@ -1,0 +1,59 @@
+{
+  "native": {
+    "path_ignore": []
+  },
+  "publish": {
+    "web": 0,
+    "native": 1,
+    "path": "bin-release"
+  },
+  "egret_version": "3.0.6",
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "res"
+    },
+    {
+      "name": "dragonbones"
+    },
+    {
+      "name": "tiled",
+      "path": "libTMX"
+    },
+    {
+      "name": "physics",
+      "path": "libPhysics"
+    },
+    {
+      "name": "test",
+      "path": "libTest"
+    },
+    {
+      "name": "Pomelo",
+      "path": "libPomelo"
+    },
+    {
+      "name": "AV",
+      "path": "libLeanCloud"
+    },
+    {
+      "name": "dcagent",
+      "path": "libDCAgent"
+    },
+    {
+      "name":"egret_4399_h5api",
+      "path":"egret_4399_h5api"
+    }
+  ]
+}

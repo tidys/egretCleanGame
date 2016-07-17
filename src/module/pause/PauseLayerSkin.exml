@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="PauseLayerSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillAlpha="0.5" left="0" right="0" top="0" bottom="0" locked="true"/>
+	<e:Image source="bg1_png" horizontalCenter="0" y="217" id="bg1" x="10"/>
+	<e:Image id="btn1" source="reborn_timer_png" y="334" scale9Grid="54,56,2,2" width="280" height="114" horizontalCenter="0"/>
+	<e:Image id="btn2" source="reborn_timer_png" y="446" scale9Grid="54,56,2,2" width="280" height="114" horizontalCenter="0"/>
+	<e:Image id="btn3" source="reborn_timer_png" y="558" scale9Grid="54,56,2,2" width="280" height="114" horizontalCenter="0"/>
+	<e:Image source="pause_b1_png" y="365" horizontalCenter="0" touchEnabled="false"/>
+	<e:Image source="pause_b2_png" y="479" horizontalCenter="0" touchEnabled="false"/>
+	<e:Image source="pause_b3_png" y="593" horizontalCenter="0" touchEnabled="false"/>
+</e:Skin>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="ChatSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:TextInput id="inputWord" x="46" y="876" width="336" height="50"/>
+	<e:Button id="sendBtn" label="发送" x="428" y="878"/>
+	<e:Image source="button_up_png" x="46" y="104" width="546" height="706" scale9Grid="2,2,8,7"/>
+	<e:Scroller width="496" height="662" x="72" y="128">
+		<e:Group id="group"/>
+	</e:Scroller>
+</e:Skin>

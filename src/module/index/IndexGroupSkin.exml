@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="IndexGroupSkin" width="640" height="2600" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="640" y="0" height="2600" x="0" touchEnabled="false" touchChildren="true">
+		<e:Image source="worldmap_1_jpg" y="1961" x="0" touchEnabled="false"/>
+		<e:Image source="worldmap_2_jpg" y="1321" x="0" touchEnabled="false"/>
+		<e:Image source="worldmap_3_jpg" y="682" x="0" touchEnabled="false"/>
+		<e:Image source="worldmap_4_jpg" y="42" x="0" touchEnabled="false"/>
+		<e:Image source="worldmap_5_jpg" y="0" x="0" touchEnabled="false"/>
+		<ns1:IndexButton id="btn1" x="297" y="181" skinName="IndexButtonSkin" lv="1"/>
+		<ns1:IndexButton id="btn2" skinName="IndexButtonSkin" y="359" x="313" lv="2"/>
+		<ns1:IndexButton id="btn3" skinName="IndexButtonSkin" y="519" x="216" lv="3"/>
+		<ns1:IndexButton id="btn4" skinName="IndexButtonSkin" y="708" x="262" lv="4"/>
+		<ns1:IndexButton id="btn5" skinName="IndexButtonSkin" y="971" x="371" lv="5"/>
+		<ns1:IndexButton id="btn6" skinName="IndexButtonSkin" y="1264" x="221" lv="6"/>
+		<ns1:IndexButton id="btn7" skinName="IndexButtonSkin" y="1439" x="372" lv="7"/>
+		<ns1:IndexButton id="btn8" skinName="IndexButtonSkin" y="1663" x="265" lv="8"/>
+		<ns1:IndexButton id="btn9" skinName="IndexButtonSkin" y="1850" x="370" lv="9"/>
+		<ns1:IndexButton id="btn10" skinName="IndexButtonSkin" y="2035" x="134" lv="10"/>
+		<ns1:IndexButton id="btn11" skinName="IndexButtonSkin" y="2152" x="427" lv="11"/>
+		<ns1:IndexButton id="btn12" skinName="IndexButtonSkin" y="2257" x="186" lv="12"/>
+		<ns1:IndexButton id="btn13" skinName="IndexButtonSkin" y="2465" x="96" lv="13"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="GameEnterDlgSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillAlpha="0.5" left="0" right="0" top="0" bottom="0" locked="true"/>
+	<e:Image source="bg4_png" x="64" y="248"/>
+	<e:Image source="bgBlack3_png" y="434" horizontalCenter="0"/>
+	<e:Image id="closeBtn" source="btn_close_png" x="462" y="282"/>
+	<e:Image source="start_wintj_png" y="375" width="220" height="62" horizontalCenter="0"/>
+	<e:Image id="goImg" source="reborn_timer_png" y="694" scale9Grid="52,55,2,2" width="260" height="142" horizontalCenter="0"/>
+	<e:Image source="start_title_png" y="714" horizontalCenter="0" touchEnabled="false"/>
+	<e:Label id="descLabel" text="30步内获得900分" y="480" width="295" height="104" horizontalCenter="0"/>
+	<e:Image source="game_level_png" x="234" y="281"/>
+	<e:BitmapLabel id="lvLabel" x="324" y="283" font="num1_fnt" text="12"/>
+</e:Skin>
