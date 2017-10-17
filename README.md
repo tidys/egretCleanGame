@@ -10,3 +10,5 @@ egret_version: 3.0.6
 3. 发布: egret publish  
 运行截图
 ![enter image description here](http://7xq9nm.com1.z0.glb.clouddn.com/egretCleanGameInit.jpg)
+
+### 有问题欢迎加入QQ群: 576700140, 验证信息: egret clean game
