@@ -1,7 +1,7 @@
 ### 使用版本 
 egret_version: 3.0.6
 ### 如何运行
-#### 下载egret3.0.0版本的引擎 
+#### 下载egret3.0.6版本的引擎 
 ![enter image description here](http://7xq9nm.com1.z0.glb.clouddn.com/egretSelectVersion.png)
 
 #### 使用命令行启动游戏
@@ -10,5 +10,7 @@ egret_version: 3.0.6
 3. 发布: egret publish  
 运行截图
 ![enter image description here](http://7xq9nm.com1.z0.glb.clouddn.com/egretCleanGameInit.jpg)
+
+如果遇到其他问题,可以尝试 egret clean 之后, 再次进行编译
 
 ### 有问题欢迎加入QQ群: 576700140, 验证信息: egret clean game
