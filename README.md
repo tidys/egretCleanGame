@@ -15,4 +15,6 @@ egret_version: 3.0.6
 
 如果遇到其他问题,可以尝试 egret clean 之后, 再次进行编译
 
-### 有问题欢迎加入QQ群: 576700140, 验证信息: egret clean game
+### 帮助 
+有问题欢迎加入QQ群: 576700140, 验证信息: egret clean game 
+点击链接加入群【EgretGameCoders】：https://jq.qq.com/?_wv=1027&k=5UqNiZx
