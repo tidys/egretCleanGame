@@ -18,3 +18,7 @@ egret_version: 3.0.6
 ### 帮助 
 有问题欢迎加入QQ群: 576700140, 验证信息: egret clean game     
 点击链接加入群【EgretGameCoders】：https://jq.qq.com/?_wv=1027&k=5UqNiZx
+
+
+## 关于作者
+[点击查看](https://github.com/tidys/CocosCreatorPlugins/blob/master/ABOUTME.md)
